@@ -1,0 +1,5 @@
+Primera nota: Aprendiendo a trabajar con archivos en Python.
+Segunda nota: Practicando voy a mejorar.
+Tercera nota: ¡No te olvides cerrar los archivos!
+Cuarta nota: Otro Ejemplo.
+Quinta Nota: finalizando el trabajo.
